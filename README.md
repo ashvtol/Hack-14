@@ -1,5 +1,7 @@
--- Made during hackathon-14 at Amazon Development Center Hyderabad.<br>
--- Made by Ashish & Sunil.<br>
+-- Made during hackathon-14 at Amazon Development Center Hyderabad.
+							   ====================================<br>
+-- Made by Ashish & Sunil.
+		   ===============<br>
 
 Hack-14
 =======

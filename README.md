@@ -12,7 +12,7 @@ socket.io and mongodb
 1. Clone the the repository to your local drive.
 2. Install node.js "sudo npm install".
 3. Install mongodb.
-4. In the terminal navigate to the colned folder.
+4. In the terminal navigate to the cloned folder.
 5. Then setup the mongodb databas by typing "mongod --dbpath ./database/"
 6. The mongodb's process starts and let it keep running.
 7. Open a new terminal window and launch the node serever by typing "node server.js"

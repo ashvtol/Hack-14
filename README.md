@@ -5,7 +5,7 @@ Hack-14
 =======
 
 ### Dynamic Cross-Browser/Platform HTML Canvas
-A HTML canvas which is made dynamic with the power of node.js, express frameworks
+A HTML canvas which is made dynamic with the power of node.js, express frameworks, 
 socket.io and mongodb
 
 ### Setup instruction:

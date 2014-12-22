@@ -15,7 +15,7 @@ socket.io and mongodb
 4. In the terminal navigate to the cloned folder.
 5. Then setup the mongodb databas by typing "mongod --dbpath ./database/"
 6. The mongodb's process starts and let it keep running.
-7. Open a new terminal window and launch the node serever by typing "node server.js"
+7. Open a new terminal window and launch the node server by typing "node server.js"
 8. Fire up your browser and navigate to "localhost:8080"
 9. Signup enjoy the app.
 

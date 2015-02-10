@@ -21,4 +21,4 @@ socket.io and mongodb
 
 ### Usage:
 1. Can be used to share ideas quickly on a network.
-2. Can we used to play games.
+2. Can be used to play games.
